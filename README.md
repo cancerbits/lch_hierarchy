@@ -1,6 +1,5 @@
 # Epigenomics and Single-cell Sequencing Define a Developmental Hierarchy in Langerhans Cell Histiocytosis
 
-> ***THIS IS THE INTERNAL VERSION OF THE REPOSITORY AFTER TIDYING UP THE CODE A LITTLE AND ENSURING REPRODUCIBILITY. NOT YET READY FOR PUBLIC RELEASE..***
 
 # Abstract
 
