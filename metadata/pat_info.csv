@@ -1,0 +1,8 @@
+pat_id,sex,disease,disease_extent,age,biopsy
+E,F,LCH,MS,Child (2-12y),Lymph node
+H,F,LCH,MS,Infant (<2y),Skin
+I,M,LCH,SS,Child (2-12y),Bone
+J,F,LCH,MS,Aged (>60y),Skin
+K,M,LCH,SS mf,Child (2-12y),Bone
+N,M,LCH,MS,Adult (18-60y),Skin
+O,M,LCH,SS mf,Child (2-12y),Bone

@@ -1,0 +1,7 @@
+library_pool,sample_name,bsf_name,sample_group,markers,cell_number,organism,data_source,library,read_type,run,read_length,material_type,bsf_date,bsf_run_id,instrument,flowcell,lane,pat_id,use
+LS014a,LCH_C2_3,ATAC_C2_1_50k_S35057,LCH_C2,transition_C2_refined,50K cells,human,BSF,ATAC-seq,single,1,51,DNA,180222,180222_ST-J00104_0149_AHT7YHBBXX,HiSeq 3000/4000 SR,BSF_0421_HT7YHBBXX,7,E,1
+LS014a,LCH_C2_4,ATAC_C2_2_37k_S35054,LCH_C2,transition_C2_refined,37K cells,human,BSF,ATAC-seq,single,1,51,DNA,180222,180222_ST-J00104_0149_AHT7YHBBXX,HiSeq 3000/4000 SR,BSF_0421_HT7YHBBXX,7,E,1
+LS014a,LCH_C5_3,ATAC_C5_1_120k_S35055,LCH_C5,transition_C5_refined,120K cells,human,BSF,ATAC-seq,single,1,51,DNA,180222,180222_ST-J00104_0149_AHT7YHBBXX,HiSeq 3000/4000 SR,BSF_0421_HT7YHBBXX,7,E,1
+LS014a,LCH_C5_4,ATAC_C5_2_70k_S35060,LCH_C5,transition_C5_refined,70K cells,human,BSF,ATAC-seq,single,1,51,DNA,180222,180222_ST-J00104_0149_AHT7YHBBXX,HiSeq 3000/4000 SR,BSF_0421_HT7YHBBXX,7,E,1
+LS014a,LCH_C8_3,ATAC_C8_1_57k_S35059,LCH_C8,transition_C8_refined,57K cells,human,BSF,ATAC-seq,single,1,51,DNA,180222,180222_ST-J00104_0149_AHT7YHBBXX,HiSeq 3000/4000 SR,BSF_0421_HT7YHBBXX,7,E,1
+LS014a,LCH_C8_4,ATAC_C8_2_44k_S35061,LCH_C8,transition_C8_refined,44K cells,human,BSF,ATAC-seq,single,1,51,DNA,180222,180222_ST-J00104_0149_AHT7YHBBXX,HiSeq 3000/4000 SR,BSF_0421_HT7YHBBXX,7,E,1
